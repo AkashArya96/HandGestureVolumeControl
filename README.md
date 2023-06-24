@@ -15,7 +15,6 @@ The process typically involves the following steps:
 4. Extract relevant landmarks, such as the positions of the thumb and index finger tips.
 5. Calculate the desired volume level based on the hand gesture, mapping it to a suitable range (e.g., 0-100).
 6. Send the volume control command to the audio system or device, adjusting the volume accordingly.
-7. Display visual feedback or indicators on the screen to provide user feedback on the volume changes.
 
 
 
